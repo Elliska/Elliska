@@ -16,19 +16,6 @@ Currently, most of my efforts are focused on improving my SQL skills and improve
 
 Check my repos and see for yourself 😊
 
-✔ SQL 📈
-  * basic concepts and some slightly advanced like CTE and window functions
-  * MySQL and T-SQL
-
-✔ Python 🐍
-  * at this moment basically only how to generate data and get them to a database
-
-✔ power BI and Excel 📎
-  * Power Query and M
-  * VBA
-  * some DAX
-  * advanced formulas
-
 Proofreading by chatGPT3.5 Please be kind, english is my second language and GPT's as well.
 
 <!--
