@@ -1,14 +1,14 @@
 ### About me 🧶
 
-I have great passion for data and analytical mind. My weakness are databases, data transformation, analyses and learning new things.
+I have great a passion for data and analytical mind. My weaknesses lie in databases, data transformation, analyses, and the pursuit of learning new things.
 
-> I love learning and challenges!
+> I love learning and enjoy challenges!
 
-My interests are data oriented. Not only I like analyses, but I am striving to make data accessible for anyone who will be working with them. When analyzing data, their transformation is inevitable. Most people dislike this part; I, on the contrary, like this part very much. Only through this phase I can get a real glimpse of data quality, consistency and ideas what can be done to make them better.
+My interests revolve around data. Not only do I enjoy analyses, but I am also dedicated to make data accessible for anyone working with it. When analyzing data, transformation becomes inevitable. While many dislike this part, I find it fascinating. It is through this phase that I gain a real understanding of data quality, consistency, and ideas on how to enhance them.
 
 ### What I am currently learning and working on? 📗
 
- At this moment most of my effort comes to have better SQL skill and improve python. 
+Currently, most of my efforts are focused on improving my SQL skills and improve my proficiency in Python.
 
  📍 trying to design and write my first app
 
@@ -20,7 +20,7 @@ Check my repos and see for yourself 😊
   * basic concepts and some slightly advanced like CTE and window functions
   * MySQL and T-SQL
 
-✔ python 🐍
+✔ Python 🐍
   * at this moment basically only how to generate data and get them to a database
 
 ✔ power BI and Excel 📎
@@ -29,6 +29,7 @@ Check my repos and see for yourself 😊
   * some DAX
   * advanced formulas
 
+Proofreading by chatGPT3.5 Please be kind, english is my second language and GPT's as well.
 
 <!--
 **Elliska/Elliska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
