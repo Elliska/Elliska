@@ -11,6 +11,7 @@ My interests revolve around data. Not only do I enjoy analyses, but I am also de
 SQL
    * CTE functions
    * window functions (mainly LAG and calculations)
+   * designing simple databases
 
 Python
    * connecting to DB and data modification
@@ -18,7 +19,7 @@ Python
 
 Power Bi
    * simple DAX calculations
-   * 
+   * Power Query and M data transformation
    * slicers, buttons...
  
 Check my repos and see for yourself 😊
