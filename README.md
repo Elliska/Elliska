@@ -1,6 +1,6 @@
 ### About me 🧶
 
-I have great a passion for data and analytical mind. Currently, most of my efforts are focused on improving my SQL skills and improve my proficiency in Python.
+I have great a passion for data and analytical mind. Currently, most of my efforts are focused on improving my SQL skills and improve my proficiency in Python. All with effort to get into Data Engineering.
 
 > I love learning and enjoy challenges!
 
