@@ -1,7 +1,3 @@
-Here’s an updated, more polished version of your GitHub README that reflects your current skills and experience while keeping your personal tone:
-
----
-
 ## About Me 🧶
 
 I'm passionate about data and love turning messy, complex processes into clean, automated pipelines. My current focus is on Data Engineering — designing, building, and optimizing systems that make data flow efficiently and reliably.
