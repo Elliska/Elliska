@@ -1,41 +1,41 @@
-### About me 🧶
+Here’s an updated, more polished version of your GitHub README that reflects your current skills and experience while keeping your personal tone:
 
-I have great a passion for data and analytical mind. Currently, most of my efforts are focused on improving my SQL skills and improve my proficiency in Python. All with effort to get into Data Engineering.
+---
 
-> I love learning and enjoy challenges!
+## About Me 🧶
 
-My interests revolve around data. Not only do I enjoy analyses, but I am also dedicated to make data accessible for anyone working with it. When analyzing data, transformation becomes inevitable. While many dislike this part, I find it fascinating. It is through this phase that I gain a real understanding of data quality, consistency, and ideas on how to enhance them.
+I'm passionate about data and love turning messy, complex processes into clean, automated pipelines. My current focus is on Data Engineering — designing, building, and optimizing systems that make data flow efficiently and reliably.
 
-### What can I already do? 💻
+I enjoy learning and thrive on challenges. My strength lies in understanding data quality, transforming raw sources into reliable datasets, and making sure the right people get the right data at the right time. I believe transformation is where real insights begin — and that’s where I do my best work.
 
-SQL
-   * CTE functions
-   * window functions (mainly LAG and calculations)
-   * designing simple databases
+---
 
-Python
-   * connecting to DB and data modification
-   * generating non-random data
+## What I Can Do 💻
 
-Power Bi
-   * simple DAX calculations
-   * Power Query and M data transformation
-   * slicers, buttons...
- 
-Check my repos and see for yourself 😊
+**Azure Data Factory (ADF)**
 
+* Building fully parameterized pipelines
+* Dynamic datasets, loops, conditions, variable control
+* Triggering Power Query and stored procedures
 
-<!--
-**Elliska/Elliska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SQL**
 
-Here are some ideas to get you started:
+* Complex queries using CTEs and window functions
+* Designing and managing SQL Server databases
+* Writing and maintaining stored procedures, views, user-defined functions
+* Data permission management and transformations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Python**
+
+* Data cleaning and transformation using pandas
+* Generating structured data for testing and simulation
+* Connecting to databases and automating ETL tasks
+
+**SSIS**
+
+* Maintaining and editing SSIS packages in Visual Studio
+* Setting up data flows, error outputs, conditions, and cleaning logic
+
+---
+
+📂 Feel free to check out my repositories — they reflect my growth, curiosity, and journey through the data world.
